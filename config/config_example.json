@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "username_db",
+    "password": "password_db",
+    "database": "nama_db",
+    "host": "host_db",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "username_db",
+    "password": "password_db",
+    "database": "nama_db",
+    "host": "host_db",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "username_db",
+    "password": "password_db",
+    "database": "nama_db",
+    "host": "host_db",
+    "dialect": "mysql"
+  }
+}
